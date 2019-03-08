@@ -1,0 +1,9 @@
+C:\Users\ysegal\source\app2.core\bin\Debug\netstandard2.0\app2.core.deps.json
+C:\Users\ysegal\source\app2.core\bin\Debug\netstandard2.0\app2.core.dll
+C:\Users\ysegal\source\app2.core\bin\Debug\netstandard2.0\app2.core.pdb
+C:\Users\ysegal\source\app2.core\obj\Debug\netstandard2.0\app2.core.csprojAssemblyReference.cache
+C:\Users\ysegal\source\app2.core\obj\Debug\netstandard2.0\app2.core.csproj.CoreCompileInputs.cache
+C:\Users\ysegal\source\app2.core\obj\Debug\netstandard2.0\app2.core.AssemblyInfoInputs.cache
+C:\Users\ysegal\source\app2.core\obj\Debug\netstandard2.0\app2.core.AssemblyInfo.cs
+C:\Users\ysegal\source\app2.core\obj\Debug\netstandard2.0\app2.core.dll
+C:\Users\ysegal\source\app2.core\obj\Debug\netstandard2.0\app2.core.pdb
